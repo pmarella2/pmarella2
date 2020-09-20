@@ -28,3 +28,8 @@ class Social:
     g-scholar   : str = "scholar.google.com/citations?user=f5mz_tAAAAAJ&hl=en&oi=ao"
 ```
 </h3>
+
+```console
+foo@bar:~$ whoami
+foo
+```
