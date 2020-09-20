@@ -30,6 +30,7 @@ class Social:
 </h3>
 
 <h3>
+
 ```console
 foo@bar:~$ whoami
 foo
