@@ -35,7 +35,7 @@ class Social:
 foo@bar:~$ whoami
 name       = "Praneeth Marella"
 location   = "Washington D.C.-Metro Area"
-occupation = "Assoc. Detection and Response Analyst"
+occupation = "Associate Detection and Response Analyst"
 school     = "George Mason Unviersity"
 ```
 </h3>
